@@ -32,6 +32,7 @@ A list of questions to ask recruiters and interviewers, when interviewing with a
 - How much vacation do people get, and how much do they usually end up taking?
 - Are employees encouraged to attend or speak at conferences? Engage in any particular communities?
     - How does the team/company support continuing education and developing skills?
+- What do you wish you knew when you were in my shoes, and you were interviewing for this job?
 
 ### Team
 
@@ -56,4 +57,4 @@ A list of questions to ask recruiters and interviewers, when interviewing with a
 - How would you describe the culture?
 - What are some of the bigger challenges this team and company face as a whole? And what is currently being done to address them?
 - Are projects ever cancelled?
-- What do you *not* like about working here? And what *do you like?*
+- What do you not like about working here? And what do you like?
