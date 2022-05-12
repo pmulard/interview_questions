@@ -41,7 +41,9 @@ A list of questions to ask recruiters and interviewers, when interviewing with a
     - If filling in for someone who left, why did they leave?
 - How large is the team right now and how is it structured?
     - How large is it expected to be by the end of the year?
+- What do you think contributes most to your team's camaraderie?
 - How does the team communicate with each other? With other teams?
+    - How do you collaborate remotely and across time zones?
 - What is the turnover rate like? How many devs were hired and how many left in the past year?
 - Can you give me an example of someone who’s been in a technical role at your company for a long time, and how their responsibilities and role have changed?
 - How many women and/or minorities are on the team? And what is the process for achieving diversity in other ways?
